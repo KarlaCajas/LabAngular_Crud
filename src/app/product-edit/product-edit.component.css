@@ -1,0 +1,73 @@
+h2 {
+  font-weight: bold;
+  text-align: center;
+  padding: 15px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(122, 41, 118); /* Color de fondo morado */
+  border-radius: 20px; /* Borde redondeado */
+}
+
+label {
+  font-weight: bold;
+  color: rgb(122, 41, 118); /* Color de texto morado */
+  padding-left: 15px;
+  align-items: center;
+  display: flex;
+  border-radius: 20px; /* Borde redondeado */
+}
+
+section {
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+  padding: 20px; /* Añadido padding para mejor visualización */
+  border-radius: 20px;
+  overflow: hidden;
+  background-color: #f0f0f0; /* Color de fondo gris claro */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+input {
+  padding: 5px;
+  margin: 2px 22px;
+  border: none;
+  border-bottom: 2px solid rgb(102, 102, 102);
+  border-radius: 5px; /* Borde redondeado */
+}
+h2 {
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(124, 107, 199, 0.781); /* Color de fondo morado */
+    border-radius: 20px; /* Borde redondeado */
+}
+  
+  label {
+    font-weight: bold;
+    color: rgba(124, 107, 199, 0.781); /* Color de texto morado */
+    padding-left: 15px;
+    align-items: center;
+    display: flex;
+    border-radius: 20px; /* Borde redondeado */
+}
+  
+  section {
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+    padding: 20px; /* Añadido padding para mejor visualización */
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: #f0f0f0; /* Color de fondo gris claro */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  }
+  
+input {
+    padding: 5px;
+    margin: 2px 22px;
+    border: none;
+    border-bottom: 2px solid rgb(102, 102, 102);
+    border-radius: 5px; /* Borde redondeado */
+}
+  

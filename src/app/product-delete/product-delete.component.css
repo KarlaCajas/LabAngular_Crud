@@ -1,0 +1,29 @@
+h2 {
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(124, 107, 199, 0.781); /* Color de fondo rosado oscuro */
+    border-radius: 20px; /* Borde redondeado */
+  }
+  
+  label {
+    font-weight: bold;
+    color: rgba(124, 107, 199, 0.781); /* Color de texto morado */
+    padding-left: 15px;
+    align-items: center;
+    display: flex;
+    border-radius: 20px; /* Borde redondeado */
+  }
+  
+  section {
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+    padding: 20px; /* Añadido padding para mejor visualización */
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: #f0f0f0; /* Color de fondo gris claro */
+    box-shadow: 0 0 10px rgba(170, 103, 156, 0.1); /* Sombra suave */
+  }
+  

@@ -1,0 +1,75 @@
+#btnEdit {
+    background-color: #a03470;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px; /* Borde redondeado */
+  }
+  
+  #btnEdit:hover {
+    background-color: #a03470;
+  }
+  
+  #btnDelete {
+    background-color: #6e1717;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px; /* Borde redondeado */
+  }
+  
+  #btnDelete:hover {
+    background-color: #6e1717;
+  }
+  
+  #table {
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    border-radius: 20px; /* Borde redondeado */
+    overflow: hidden;
+  }
+  
+  thead {
+    background-color: #7265aa;
+    color: white;
+    height: 50px;
+    border-top-left-radius: 20px; /* Borde redondeado superior izquierdo */
+    border-top-right-radius: 20px; /* Borde redondeado superior derecho */
+  }
+  
+  #btnAdd {
+    background-color: #ce314b; /* Color de fondo azul */
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px; /* Borde redondeado */
+    position: absolute;
+    right: 0;
+  }
+  
+  h2 {
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(124, 107, 199, 0.781);
+    border-radius: 20px; /* Borde redondeado */
+  }
+  

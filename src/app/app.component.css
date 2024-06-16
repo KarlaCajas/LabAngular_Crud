@@ -1,0 +1,86 @@
+.button {
+  background-color: #6A5ACD; /* Color de fondo azul violeta */
+  color: white; /* Color de texto blanco */
+  border: none; /* Sin borde */
+  padding: 10px 20px; /* Espaciado interno */
+  text-align: center; /* Alineación centrada */
+  text-decoration: none; /* Sin subrayado */
+  display: inline-block; /* Mostrar como bloque en línea */
+  font-size: 16px; /* Tamaño de fuente */
+  margin: 4px 2px; /* Margen exterior */
+  cursor: pointer; /* Cursor apuntador */
+  border-radius: 20px; /* Borde redondeado */
+  box-shadow: 0 4px #483D8B; /* Sombra más oscura */
+}
+
+.button:hover {
+  background-color: #483D8B; /* Color de fondo más oscuro al pasar el mouse */
+}
+
+.activebutton {
+  background-color: #4682B4; /* Color de fondo azul acero */
+  color: white; /* Color de texto blanco */
+  box-shadow: none; /* Sin sombra */
+}
+
+.navBar {
+  overflow: hidden;
+  justify-content: center; /* Alinear contenido centrado */
+  text-align: center; /* Alinear texto centrado */
+  background-color: #ad397d; /* Color de fondo azul intenso */
+  padding: 10px 0; /* Espaciado interno */
+  border-top-left-radius: 20px; /* Borde redondeado esquina superior izquierda */
+  border-top-right-radius: 20px; /* Borde redondeado esquina superior derecha */
+  border-bottom-left-radius: 20px; /* Borde redondeado esquina inferior izquierda */
+  border-bottom-right-radius: 20px; /* Borde redondeado esquina inferior derecha */
+}
+
+ul {
+  list-style-type: none; /* Sin viñetas */
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #E6E6FA; /* Color de fondo lavanda */
+}
+
+h2 {
+  font-weight: bold;
+  text-align: center;
+  padding: 15px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(176, 106, 233);
+  border-radius: 20px; /* Borde redondeado */
+}
+
+label {
+  font-weight: bold;
+  color: rgb(167, 106, 196);
+  padding-left: 15px;
+  align-items: center;
+  display: flex;
+  border-radius: 20px; /* Borde redondeado */
+}
+
+section {
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+  padding: 20px; /* Añadido padding para mejor visualización */
+  border-radius: 20px;
+  overflow: hidden;
+  background-color: #f0f0f0; /* Color de fondo gris claro */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+input {
+  padding: 5px;
+  margin: 2px 22px;
+  border: none;
+  border-bottom: 2px solid rgb(102, 102, 102);
+  border-radius: 5px; /* Borde redondeado */
+}
